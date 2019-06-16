@@ -1,0 +1,22 @@
+body {
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+text-align:center;
+margin-top: 120px;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+opacity: 0.6;
+font-weight: 50;
+font-size: 3.3em;
+}
+h3 {
+text-align:center;
+margin-top: 80px;
+letter-spacing: 0.08em;
+text-transform: italic;
+opacity: 0.7;
+font-weight: 600;
+font-size: 1.8em;
+}
